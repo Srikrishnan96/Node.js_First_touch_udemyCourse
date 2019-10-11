@@ -1,2 +1,2 @@
-# Node.js_udemyCourse_Assignment_1
+# Node.js_udemyCourse_First Touch
 A simple server request-response interface using node.js 
